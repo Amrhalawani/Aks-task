@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Portfolio_menu_item"
+        android:icon="@drawable/ic_mask_group_5"
+        android:title="portfolio"
+    />
+
+    <item
+        android:id="@+id/aa_item"
+        android:icon="@drawable/ic_best_seller"
+        android:title="best seller"
+
+        />
+    <item
+        android:id="@+id/aa_menu_item"
+        android:icon="@drawable/ic_digital"
+        android:title="title"
+
+        />
+    <item
+        android:id="@+id/home_menu_item"
+        android:icon="@drawable/ic_home_icon"
+        android:title="home"
+
+        />
+
+
+</menu>

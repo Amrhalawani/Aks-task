@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000014</color>
+    <color name="colorAccent">#015C6F</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000014</color>
+
+    <color name="gray">#7D7D7D</color>
+    <color name="lightgray">#B4B4B4</color>
+
+    <color name="blueStone">#015C6F</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!--bottom nav c-->
+    <color name="tab_enable">#015C6F</color>
+    <color name="tab_disable">#3F3F3F</color>
+
+
+</resources>

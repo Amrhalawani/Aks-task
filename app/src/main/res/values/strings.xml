@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AKS Task</string>
+    <string name="our_work">أعمالنا</string>
+    <string name="no_product_here">لا يوجد مشاريع</string>
+    <string name="work_levels">مراحل العمل</string>
+    <string name="preview_project">معاينة العمل</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="RippleEffect">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="tab_text_main" parent="@style/TextAppearance.Design.Tab">
+        <item name="android:fontFamily">@font/notokufiarabic_bold</item>
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textSize">16sp</item>
+
+    </style>
+
+    <style name="text_bold" parent="@style/TextAppearance.Design.Tab">
+        <item name="android:fontFamily">@font/notokufiarabic_bold</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="text_bold_big" parent="@style/TextAppearance.Design.Tab">
+        <item name="android:fontFamily">@font/notokufiarabic_bold</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+
+
+</resources>
